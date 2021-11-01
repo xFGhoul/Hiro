@@ -8,7 +8,3 @@ deps/
 # Bot Config
 
 config/config.yaml
-
-# VSCode
-
-.vsocde
