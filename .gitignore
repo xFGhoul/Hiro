@@ -1,0 +1,14 @@
+# Discordia
+
+discordia.log
+gateway.json
+
+deps/
+
+# Bot Config
+
+config/config.yaml
+
+# VSCode
+
+.vsocde
